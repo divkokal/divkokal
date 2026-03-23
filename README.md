@@ -1,6 +1,6 @@
 # Hi, I'm Divya 👋
 
-Full-stack developer in progress, with 4+ years working in fintech and performance marketing at [Adyen](https://www.adyen.com). I'm building toward my own product in the payments space.
+Full-stack developer in progress, with 4+ years working in fintech and performance marketing at [Adyen](https://www.adyen.com). In the process of building my own product in the payments space.
 
 Currently completing the **CFGdegree Full Stack programme** (graduating July 2025) and the **CFG Masters in Cybersecurity** (August 2025), alongside the **freeCodeCamp Full Stack certification**.
 
