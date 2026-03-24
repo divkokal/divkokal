@@ -41,6 +41,7 @@ I'm working on a product in the **payments space**, combining what I've learned 
 | Project | Description | Stack | Live |
 |---|---|---|---|
 | [Epic Experiences](https://github.com/divkokal/epic-experiences) | Front-end travel experiences site. Project from CFG Web development course | HTML, CSS, Bootstrap | [Demo](https://divkokal.github.io/epic-experiences/) |
+| [Calculator](https://github.com/divkokal/Calculator) | Basic Calculator | HTML, CSS | [Demo](https://divkokal.github.io/Calculator/) |
 | More coming soon | Building throughout CFGdegree & freeCodeCamp | | |
 
 ---
