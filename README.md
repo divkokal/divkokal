@@ -8,7 +8,7 @@ Currently completing the **CFGdegree Full Stack programme** (graduating July 202
 
 ## What I'm building toward
 
-I'm working on a product in the **payments space**, combining what I've learned operating inside a global payments company with the engineering skills I'm building now.
+I'm working on a product in the **fintech space**, combining what I've learned operating inside a global payments company with the engineering skills I'm building now.
 
 ---
 
