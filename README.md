@@ -2,7 +2,7 @@
 
 Full-stack developer in progress, with 4+ years working in fintech and performance marketing at [Adyen](https://www.adyen.com). In the process of building my own product in the payments space.
 
-Currently completing the **CFGdegree Full Stack programme** (graduating July 2026) and the **CFG Masters in Cybersecurity** (August 2026), alongside the **freeCodeCamp Full Stack certification**.
+Currently completing the **CFGdegree Full Stack programme** (graduating July 2026) and the **CFG Masters in Cybersecurity** (August 2026) sponsored by [Entrepreneur First]((https://www.joinef.com/), alongside the **freeCodeCamp Full Stack certification**.
 
 ---
 
