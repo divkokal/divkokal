@@ -57,7 +57,7 @@ I'm working on a product in the **fintech space**, combining what I've learned o
 
 ## Let's connect
 
-Open to full-stack internships and conversations about products in the payments space.
+Open to full-stack internships and conversations about products in the fintech space.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/divyakokal)
 - 📧 divya.skokal@gmail.com
