@@ -6,7 +6,7 @@ Interested in **fintech**, **payments infrastructure**, **cybersecurity**, and b
 
 ---
 
-##  🛠️ Tech stack
+##  Tech stack
 
 ### Languages
 
